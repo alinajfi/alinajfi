@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Ezzad**
-- 🔭 I’m currently working on **EzeAutos**
+- 🔭 I’m currently working on **EzeAuctions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
